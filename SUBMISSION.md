@@ -16,9 +16,9 @@ change.
 ![Screen Capture #5](figures/build_fail_comment_out.png)
 - [5 pts] Your GitHub repository with the readme.md file selected showing the build failed
 status after the GitHub workflow fails.
-![Screen Capture #6](figures/build_fail_comment_out.png)
+![Screen Capture #6](figures/readme_build_fail.png)
 - [5 pts] The section of the POM file showing the coordinates after you’ve fixed them.
-![Screen Capture #7](figures/readme_build_fail.png)
+![Screen Capture #7](figures/pom_comment_in.png)
 - [5 pts] Your GitHub Actions dashboard showing the successful build after the breaking
 change has been fixed.
 ![Screen Capture #8](figures/build_success.png)
